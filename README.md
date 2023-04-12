@@ -3,7 +3,7 @@
 I'm a frontend developer/engineer, with a passion for creating beautiful and user-friendly web applications. My interests include **JavaScript**, **React**, **Next.js**, and **frontend development** in general.
 
 
-## Skills 🚀
+## Skills 💻 
 
 - Proficient: JavaScript, React, TypeScript, Next.js, Tailwind, Git
 - Familiar with: Laravel Blade and Vue.
