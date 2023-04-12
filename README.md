@@ -3,6 +3,13 @@
 I'm a frontend developer/engineer, with a passion for creating beautiful and user-friendly web applications. My interests include **JavaScript**, **React**, **Next.js**, and **frontend development** in general.
 
 
+## 📊 Stats
+
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8664557.svg)](https://stackoverflow.com/users/8664557) [![wakatime](https://wakatime.com/badge/user/f2736117-882a-4076-800d-33444fbc51f4.svg)](https://wakatime.com/@f2736117-882a-4076-800d-33444fbc51f4)
+
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizeinalzadeh&show_icons=true&theme=onedark)](https://github.com/alizeinalzadeh) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alizeinalzadeh&layout=compact&theme=onedark&hide=c#)](https://github.com/alizeinalzadeh)
+
+
 ## 💻 Skills
 
 - Proficient: JavaScript, React, TypeScript, Next.js, Tailwind, Git
@@ -31,15 +38,6 @@ I'm a frontend developer/engineer, with a passion for creating beautiful and use
 🎨 I have a basic understanding of UI/UX design principles and how to create user-friendly interfaces.
 
 🔪 I have worked with Laravel Blade and understand its templating system, Vue.js and more.
-
-
-## 📊 Stats
-
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizeinalzadeh&show_icons=true&theme=onedark)](https://github.com/alizeinalzadeh)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alizeinalzadeh&layout=compact&theme=onedark)](https://github.com/alizeinalzadeh)
-
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8664557.svg)](https://stackoverflow.com/users/8664557)
 
 
 ## 📫 Get in touch
