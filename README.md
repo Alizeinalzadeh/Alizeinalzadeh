@@ -3,14 +3,14 @@
 I'm a frontend developer/engineer, with a passion for creating beautiful and user-friendly web applications. My interests include **JavaScript**, **React**, **Next.js**, and **frontend development** in general.
 
 
-## Skills 💻 
+## 💻 Skills
 
 - Proficient: JavaScript, React, TypeScript, Next.js, Tailwind, Git
 - Familiar with: Laravel Blade and Vue.
 - Have some knowledge of: SEO, Docker, UI/UX
 
 
-## What I do 🚀
+## 🚀 What I do
 
 🚀 I can create a website from scratch using HTML, CSS(SCSS,LESS,SASS) and JavaScript.
 
@@ -33,11 +33,11 @@ I'm a frontend developer/engineer, with a passion for creating beautiful and use
 🔪 I have worked with Laravel Blade and understand its templating system, Vue.js and more.
 
 
-## Stats 📊
+## 📊 Stats
 
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizeinalzadeh&show_icons=true&theme=radical)](https://github.com/alizeinalzadeh)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizeinalzadeh&show_icons=true&theme=onedark)](https://github.com/alizeinalzadeh)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alizeinalzadeh&layout=compact&theme=radical)](https://github.com/alizeinalzadeh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alizeinalzadeh&layout=compact&theme=onedark)](https://github.com/alizeinalzadeh)
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8664557.svg)](https://stackoverflow.com/users/8664557)
 
